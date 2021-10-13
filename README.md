@@ -1,11 +1,11 @@
 # الألوان
 ################################
 
-#[2] Yousef Tito programming 
+#[1] Yousef Tito programming 
 
-#[3] Arabs above everyone
+#[2] Arabs above everyone
 
-#[4] Greetings Yousef Tito 
+#[3] تحياتي يوسف تيتو
 
 ################################
 
