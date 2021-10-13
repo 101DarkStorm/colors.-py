@@ -2,5 +2,4 @@
 pkg update 
 pkg upgrade 
 pkg install git
-
-git clone 
+git clone https://github.com/101DarkStorm/colors.-py.git
