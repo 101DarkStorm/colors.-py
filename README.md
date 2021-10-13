@@ -1,8 +1,6 @@
 # الألوان
 ################################
 
-#[1] Www.Darkstorm101.com
-
 #[2] Yousef Tito programming 
 
 #[3] Arabs above everyone
